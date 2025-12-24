@@ -70,7 +70,7 @@ Follow these steps to set up and run the system for your own use case.
 ## 1️⃣ Download or Clone the Repository
 
 ```bash
-git clone https://github.com/AryanChougule/Automated-Attendance-Capturing-System-using-RAR
+git clone https://github.com/varun08x/Automated-Attendance-Capturing-System.git
 cd <your-project-folder>
 ```
 
@@ -157,9 +157,9 @@ This file can be used for web applications, dashboards, or reporting.
 Want to try a different approach than tradition CNN and also, where a CNN require 100s of images per student for training, our system just require 10-15 images per student and also dont require model training so easily scalable.
 
 ## 📌 Team Members
-- **Aryan Chougule** (Myself) — [LinkedIn Profile](https://www.linkedin.com/in/aryanpravinchougule/)
+- **Varun Kulkarni** (Myself) — [LinkedIn Profile](https://www.linkedin.com/in/varun-kulkarni-b49bb2320)
 - **Shreejeet Gaikwad**
-- **Varun Kulkarni**
+- **Aryan Chougule**
 - **Atharv Halwai**
   Contact any one of use for any problem
 ## 📌 Demo Video / Screenshots
